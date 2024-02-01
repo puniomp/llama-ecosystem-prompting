@@ -97,7 +97,3 @@ In the demo notebook 'llama-2-chat-prompt-engineering.ipynb', we demonstrate how
 ## Resources
 - https://github.com/facebookresearch/PurpleLlama/tree/main
 - https://promptbench.readthedocs.io/en/latest/index.html
-
-
-## Support and contributions
-Please reach out to puniomp@ - contributions / collaboration to the given repo are encouraged!
